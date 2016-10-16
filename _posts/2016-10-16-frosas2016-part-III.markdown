@@ -58,3 +58,5 @@ MATERIALS : </p>
   <li><x><a href="https://www.flickr.com/groups/opensuse-asia-summit-2016/">Photo Documentation on Flickr</a></x>
   </li>
 </ul>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------- [EOF]
