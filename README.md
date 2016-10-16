@@ -1,2 +1,2 @@
 # levay08.github.io
-Just my another [b]log_
+another (b)log about ng-oceh; ng-oprek; and ng-ider
