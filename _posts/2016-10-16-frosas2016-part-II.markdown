@@ -59,7 +59,7 @@ rata img { display: inline; }
 <i><font size="1">image from : mine / gugel images</font></i></center></p>
 
 <p style="text-align:justify"><x><b>Very Awesome!</b></x> hope one day, I can buy it.<br>
-And installed BlankOn as main OS inside too (with openbox absolutely ツ ). <br>اَسْتَغْفِرُ اَللّهَ الْعَظِیْمَ </p>
+And installed BlankOn as main OS inside too (with openbox absolutely ツ ). <br>اَمِين يَا رَبَّ الْعَالَمِيْن </p>
 
 <p><center>
 <img src="/assets/gudeg.jpg" width="500" border='1'>
