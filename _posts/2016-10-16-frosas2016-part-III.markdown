@@ -48,7 +48,7 @@ But, I will face it like a man and then I forgot to taking off my hat and my jac
 <i><font size="1">image from : <a href="https://farm9.staticflickr.com/8275/coverphoto/147810736@N07_h.jpg?1475937361#147810736@N07">OpenSUSE.id on Flickr</a></font></i></center></p>
 
 <p style="text-align:justify">
-Yeah, that's all about <x><b>The Awesomeness</b></x> in OpenSUSE Asia Summit 2016 which be held on Yogyakarta last week. Thank you very much for everyone that bring this event successfully, to commitee and all participant, <x><b>YOU GUYS, ARE  AWESOME!!!</b></x>. See you next time! Terima kasih! </p>
+Yeah, that's all about <x><b>The Awesomeness</b></x> in OpenSUSE Asia Summit 2016 which be held on Yogyakarta last week. Sorry for committee, I didn't join one day tour after that events because urgently I had call of duty 😕 . Thank you very much for everyone that bring this event successfully, to commitee and all participant, <x><b>YOU GUYS, ARE  AWESOME!!!</b></x>. See you next time! Terima kasih! </p>
 
 <p style="text-align:justify">
 MATERIALS : </p>
