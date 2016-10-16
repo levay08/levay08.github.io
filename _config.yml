@@ -1,0 +1,15 @@
+excerpt_separator: ""
+highlighter: rouge
+markdown: kramdown
+title: levay.cf
+tagline: it's just another (b)log
+description: Null
+permalink: /:year/:month/:day/:title
+
+# Author settings
+author:
+  name     : "levay"
+  job      : "it engineer,f/loss enthusiast,if/mud hunter"
+  email    : herpiko@gmail.com
+  url      : https://levay08.github.io
+  github   : https://github.com/levay08

@@ -1,0 +1,70 @@
+---
+published: true
+title: The Awesomeness of OpenSUSE ASIA SUMMIT 2016 [part:2]
+layout: post
+tags: [opensuse, linux]
+categories: [ng-oceh]
+---
+<style>
+x:hover {
+font-size: 120%;
+color: green;
+}
+y:hover {
+  background-color: black;
+  color: #00b2ff  ;
+  display: list-item;
+  direction: inherit;
+}
+rata img { display: inline; }
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+</style>
+---
+<center>
+<img src="/assets/mapjktjogja.png" width="700" border='1'>
+<i><font size="1">image from : openstreetmap.org</font></i></center>
+<p style="text-align:justify">Ok, this is a part II. <br />
+<b>September 29th 2016</b>, Me and <a href="http://glibogor.or.id/tilil/">GLiB</a> team going to that event, <a href="https://events.opensuse.org/conference/summitasia16">OpenSUSE Summit 2016</a>. Yeah! We were enjoying this travel with train named Taksaka ( sound like Japanese name from 新浜県新浜市 ), depart from St. Gambir Jakarta - and arrived in St. Tugu Yogyakarta was about 8 hours for ± 529 KM.</p>
+
+<p><center>
+<img src="/assets/jogja.jpeg" width="500" border='1'>
+<i><font size="1">image from : mine</font></i></center></p>
+<p><center>
+<img src="/assets/glibjogja.jpg" width="500" border='1'>
+<i><font size="1">image from : <a href="https://www.instagram.com/p/BK76DuEAuv6/">Mr. Agus Supriadi on IG</a></font></i></center></p>
+
+<p style="text-align:justify">On <b>September 30th 2016</b>, we were set to move to Hotel, preparing some tools for presentation, and go back to look around <a href="https://events.opensuse.org/conference/summitasia16/schedule#2016-09-30">workshop on [Day0]</a>. There are 3 speakers during this day. And <x><b>The Awesomeness</b></x> day was coming on <b>October 1st 2016</b>, There are lot of people attend this event around the world ( included Bekasi absolutely ✌ ) with some passion about Open Source and OpenSUSE as an initiative. I meet other community/individual activist that fight for F/LOSS from far around Indonesia and the world such as KLAS, KSL-UIN, DOSCOM, SAGOS, A Brave from Medan (North Sumatra), A Brave Man from Lampung (South Sumatra), OpenSUSE Member from Japan and etc. There are 20 speakers perform here on <a href="https://events.opensuse.org/conference/summitasia16/schedule#2016-10-01">[Day01]</a>. Time by time, this event was crowded, there is no room for an apple to fall, <x><b>Awesome!!!</b></x> </p>
+<p><center>
+<img src="/assets/workshop.jpg" width="500" border='1'>
+<i><font size="1">image from : <a href="https://www.flickr.com/photos/147810736@N07/30070100971/">OpenSUSE.id on Flickr</a></font></i></center></p>
+<p><center>
+<img src="/assets/crowded.jpg" width="500" border='1'>
+<i><font size="1">image from : <a href="https://www.flickr.com/photos/147810736@N07/30154384275/in/pool-opensuse-asia-summit-2016/">OpenSUSE.id on Flickr</a></font></i></center></p>
+<p><center>
+<img src="/assets/meethatochan.jpg" width="500" border='1'>
+<i><font size="1">image from : <a href="https://www.flickr.com/photos/140648184@N07/30123549025/in/pool-opensuse-asia-summit-2016/">GNU/Linux Bogor on Flickr</a></font></i></center></p>
+
+<p style="text-align:justify">And nah! I forgot to say, I'm fallin in love when touch and bring <x><b>The Awesomeness</b></x> Dell Military Laptop (idk, what the model of it. but it awsum! hehe) to prepared at <a href="http://www.blankonlinux.or.id/">BlankOn</a> both stage's. Especially when BlankOn going well as a main operating system inside. What a wonderfull world. According to my status that I posted while ago, this laptop model is my Idol.
+<p><center>
+<img src="/assets/blankonboth.jpg" width="500" border='1'>
+<i><font size="1">image from : <a href="https://www.flickr.com/photos/140648184@N07/30008982972/in/pool-opensuse-asia-summit-2016/">GNU/Linux Bogor on Flickr</a></font></i></center></p>
+<p><center>
+<img src="/assets/rugged.png" width="300" border='1'>
+<i><font size="1">image from : mine</font></i></center></p>
+<p><center><img src="/assets/rugged2.jpg" width="300" border='1'>
+<i><font size="1">image from : mine / gugel images</font></i></center></p>
+
+<p style="text-align:justify"><x><b>Very Awesome!</b></x> hope one day, I can buy it.<br>
+And installed BlankOn as main OS inside too (with openbox absolutely ツ ). <br>اَسْتَغْفِرُ اَللّهَ الْعَظِیْمَ </p>
+
+<p><center>
+<img src="/assets/gudeg.jpg" width="500" border='1'>
+<i><font size="1">image from : <a href="https://www.flickr.com/photos/127566246@N08/29524918984/in/pool-opensuse-asia-summit-2016/">Fuminobu Takeyama on Flickr</a></font></i></center></p>
+
+<p style="text-align:justify">
+And at this event, I found someone that made me stunned when she looked at me, idk who is she, but unfortunately we just looking each other in safe distance. So, this one is another <x><b>awesomeness</b></x> for me. Thank you OpenSUSE Summit 2016 ♥ </p><br />
+<y><b>>> go to PART III</b></y>
