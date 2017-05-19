@@ -48,18 +48,18 @@ rata img { display: inline; }
 <img src="/assets/meethatochan.jpg" width="500" border='2'>
 <i><font size="1">image from : <a href="https://www.flickr.com/photos/140648184@N07/30123549025/in/pool-opensuse-asia-summit-2016/">GNU/Linux Bogor on Flickr</a></font></i></center></p>
 
-<p style="text-align:justify">And nah! I forgot to say, I'm fallin in love when touch and bring <x><b>The Awesomeness</b></x> Dell Military Laptop (idk, what the model of it. but it awsum! hehe) to prepared at <a href="http://www.blankonlinux.or.id/">BlankOn</a> both stage's. Especially when BlankOn going well as a main operating system inside. What a wonderfull world. According to my status that I posted while ago, this laptop model is my Idol.
+<p style="text-align:justify">And nah! I forgot to say, I'm fallin in love when touch and bring <x><b>The Awesomeness</b></x> Dell Rugged Military Laptop (idk, what the model of it) to prepared at <a href="http://www.blankonlinux.or.id/">BlankOn</a> both stage's. Especially when BlankOn going well as a main operating system inside. What a wonderfull world. According to my status that I posted while ago, this laptop model is my Idol.
 <p><center>
 <img src="/assets/blankonboth.jpg" width="500" border='2'>
 <i><font size="1">image from : <a href="https://www.flickr.com/photos/140648184@N07/30008982972/in/pool-opensuse-asia-summit-2016/">GNU/Linux Bogor on Flickr</a></font></i></center></p>
 <p><center>
 <img src="/assets/rugged.png" width="300" border='2'>
 <i><font size="1">image from : mine</font></i></center></p>
-<p><center><img src="http://imgos-belajarlinux.blogspot.co.id/2016/10/liputan-acara-opensuse-asia-summit-2016_5.html" width="300" border='2'>
-<i><font size="1">image from <a href="https://1.bp.blogspot.com/-lhrrfNRd5TA/V_Q0xWiHydI/AAAAAAAAHUY/w5qUvM_Nrn4YBfaiinyGlQLmmf2fh0IvgCLcB/s1600/0.Laptop_spek%2BMiliter.jpg">imgos-belajarlinux.blogspot.co.id</a></font></i></center></p>
+<p><center><img src="hhttps://1.bp.blogspot.com/-lhrrfNRd5TA/V_Q0xWiHydI/AAAAAAAAHUY/w5qUvM_Nrn4YBfaiinyGlQLmmf2fh0IvgCLcB/s1600/0.Laptop_spek%2BMiliter.jpg" width="300" border='2'>
+<i><font size="1">http://imgos-belajarlinux.blogspot.co.id/2016/10/liputan-acara-opensuse-asia-summit-2016_5.html">imgos-belajarlinux.blogspot.co.id</a></font></i></center></p>
 
 <p style="text-align:justify"><x><b>Very Awesome!</b></x> hope one day, I can buy it.<br>
-And installed BlankOn as main OS inside too (with openbox absolutely ツ ). <br>اَمِين يَا رَبَّ الْعَالَمِيْن </p>
+And installed BlankOn as main OS inside too. <br>اَمِين يَا رَبَّ الْعَالَمِيْن </p>
 
 <p><center>
 <img src="/assets/gudeg.jpg" width="500" border='2'>
