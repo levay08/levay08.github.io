@@ -29,23 +29,23 @@ Maybe it's a late post, but seriously bro, the euforia from OSAS 2016 last week 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------- [BOF] <br />
 <p style="text-align:justify">OpenSUSE Asia Summit 2016 was started after <a href="https://news.opensuse.org/2016/06/06/opensuse-asia-2016-announced-from-indonesia/">announcement</a> from Manu Gupta on <b>June 6th 2016</b> in OpenSUSE news board, and <a href="https://www.openstreetmap.org/way/270028075#map=19/-7.78522/110.39447">Indonesia from UIN Sunan Kalijaga (Yogyakarta, West Java)</a> has been chosen for preparing the big event soon. The committee opened Logo Design Contest and CFP to invite any related Open Source contributor around the world to participate these event.</p>
 <center>
-<img src="/assets/sleeponoffice.jpg" width="400">
+<img src="/assets/sleeponoffice.jpg" width="400" border="2">
 <center><i> <font size="1">image from : mine</font></i></center>
 <br>
 <p style="text-align:justify">When reading this news, I'm still stuck with my job on my desk, busy day by day, week by week even I must sleep on my office sometimes <strike>(I am Engineer, I have no life)</strike>, so I'm doubt to participate. If I must going to there, it's not take easy man. Working on shift made me mad for looking spare time, but I am curios dude! wanna going there, wanna join my team <a href="glibogor.or.id">(GNU/Linux Bogor)</a> to be an Open Source fighter, spread the world of Open Source software and OpenSUSE especially.</p>
 <center>
-<img src="/assets/kopdarglib.jpg" width="400">
+<img src="/assets/kopdarglib.jpg" width="400" border="2">
 <i><font size="1">image from : https://www.instagram.com/p/BIiCHDMAIRE/</font></i></center>
 <br>
 <p style="text-align:justify">So, when GLiB did a small meetup, I decided to get into the plan, send my paper on. I choose to talk about <a href="https://events.opensuse.org/conference/summitasia16/program/proposal/1144">how to build a game engine with OpenSUSE on Raspberry Pi</a> rather than circling on my background about computer network. The reason is : I wanna free my mind (My approval for vacation letter was permitted from my office, so I can going to openSUSE Asia Summit 2016! re-freshing mind bro! ツ ) and also this game, this text-adventure game, which I want to talk about is the old style game nowadays.</p><br/>
 <center>
-<img src="/assets/zork.jpg" width="400">
+<img src="/assets/zork.jpg" width="400" border="2">
 <i><font size="1">image from : http://www.vulture.com/2013/10/breaking-bad-zork-text-computer-game-graphic.html</font></i></center>
 <br>
 <p style="text-align:justify">Just few people know this game, but my father and geek/nerd from his era would love to play this game, and I like this game-style very much even I am not the GUI-gamer ツ. My friend from GLiB <a href="https://www.facebook.com/rizki.fauzi.nst?fref=ts">Rizki Fauzi Nasution</a> told me that Mr/Pak. Yanmarhus from Daunsalam.net/KPLI Bogor had <a href="http://daunsalam.samsul.web.id/artikel/zodost.htm">played Zork before</a>. I was surprised, Zork Series is the classic and famous text-adventure game. That's made me passionate to explore all things related to interactive fiction/mud/or text-adventure game style especially on Open Source perspective.
 <center>
-<img src="/assets/riset.jpeg" align="centre" width="600">
+<img src="/assets/riset.jpeg" align="centre" width="600" border="2">
 <i><font size="1">image from : mine</font></i></center>
 <br>
-<p style="text-align:justify">After doing some research while waiting my paper approval, I've got an email from Mr/Pak. Edwin that informed my paper was accepted by the committee, and yeah! so <x><b>The Awesomeness</b></x> is began... 😊</p><br />
+<p style="text-align:justify">After doing some research while waiting my paper approval, I've got an email from Mr/Pak. Edwin that informed my paper was accepted by the committee, and yeah! so <x><b>The Awesomeness</b></x> is began...</p><br />
 <y><b><a href="https://levay08.github.io/2016/10/16/frosas2016-part-II">> go to PART II</a></b></y>
