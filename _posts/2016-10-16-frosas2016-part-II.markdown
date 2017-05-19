@@ -56,7 +56,7 @@ rata img { display: inline; }
 <img src="/assets/rugged.png" width="300" border='2'>
 <i><font size="1">image from : mine</font></i></center></p>
 <p><center><img src="http://imgos-belajarlinux.blogspot.co.id/2016/10/liputan-acara-opensuse-asia-summit-2016_5.html" width="300" border='2'>
-<i><font size="1">image from <a href="http://imgos-belajarlinux.blogspot.co.id/2016/10/liputan-acara-opensuse-asia-summit-2016_5.html">imgos-belajarlinux.blogspot.co.id</a></font></i></center></p>
+<i><font size="1">image from <a href="https://1.bp.blogspot.com/-lhrrfNRd5TA/V_Q0xWiHydI/AAAAAAAAHUY/w5qUvM_Nrn4YBfaiinyGlQLmmf2fh0IvgCLcB/s1600/0.Laptop_spek%2BMiliter.jpg">imgos-belajarlinux.blogspot.co.id</a></font></i></center></p>
 
 <p style="text-align:justify"><x><b>Very Awesome!</b></x> hope one day, I can buy it.<br>
 And installed BlankOn as main OS inside too (with openbox absolutely ツ ). <br>اَمِين يَا رَبَّ الْعَالَمِيْن </p>
