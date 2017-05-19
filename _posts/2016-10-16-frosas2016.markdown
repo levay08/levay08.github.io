@@ -21,7 +21,7 @@ rata img { display: inline; }
 </style>
 ---
 <center>
-<img src="https://kabarlinux.web.id/wp-content/uploads/2016/06/uin-suka-opensuse-lnx.jpg" width="700" border='1'>
+<img src="https://kabarlinux.web.id/wp-content/uploads/2016/06/uin-suka-opensuse-lnx.jpg" width="700" border="2">
 <i><font size="1">image from : kabarlinux.web.id</font></i></center>
 
 <p style="text-align:justify">Yo!<br>
