@@ -33,12 +33,6 @@ And the [Day02] was begin right now. The participant of this event is more crowd
 <p style="text-align:justify">
 But, I will face it like a man and then I forgot to taking off my hat and my jacket plus I didn't realize that my slide have a lil' problem before. Maybe it's all about time, because I think my presentation was to quick, I need a long time to adapted. My bad. LOL! very nervous 😁 (sorry it's my 1st time, I'm very shy sometimes and never speaking in front of public before) but the presentation going well, I can talk what I want to talk, explain what is Interactive Fiction world? How to Play? How to Contribute with OpenSource text-adventure/interactive fiction Game Engine? It's <x><b>very very AWESOME!</b></x></p>
 <p><center>
-<img src="/assets/glib1.jpg" width="500" border='2'>
-<i><font size="1">image from : <a href="https://www.flickr.com/photos/140648184@N07/29833295330/in/pool-opensuse-asia-summit-2016/">GNU/Linux Bogor on Flickr</a></font></i></center></p>
-<p><center>
-<img src="/assets/glib2.jpg" width="500" border='2'>
-<i><font size="1">image from : <a href="https://www.flickr.com/photos/140648184@N07/29833295330/in/pool-opensuse-asia-summit-2016/">GNU/Linux Bogor on Flickr</a></font></i></center></p>
-<p><center>
 <img src="/assets/osas2016.jpg" width="800" border='2'>
 <i><font size="1">image from : <a href="https://farm9.staticflickr.com/8275/coverphoto/147810736@N07_h.jpg?1475937361#147810736@N07">OpenSUSE.id on Flickr</a></font></i></center></p>
 
