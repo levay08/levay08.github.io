@@ -34,8 +34,6 @@ rata img { display: inline; }
 <img src="/assets/jogja.jpeg" width="500" border='2'>
 <i><font size="1">image from : mine</font></i></center></p>
 <p><center>
-<img src="/assets/glibjogja.jpg" width="500" border='2'>
-<i><font size="1">image from : <a href="https://www.instagram.com/p/BK76DuEAuv6/">Mr. Agus Supriadi on IG</a></font></i></center></p>
 
 <p style="text-align:justify">On <b>September 30th 2016</b>, we were set to move to Hotel, preparing some tools for presentation, and go back to look around <a href="https://events.opensuse.org/conference/summitasia16/schedule#2016-09-30">workshop on [Day0]</a>. There are 3 speakers during this day. And <x><b>The Awesomeness</b></x> day was coming on <b>October 1st 2016</b>, There are lot of people attend this event around the world ( included Bekasi absolutely ✌ ) with some passion about Open Source and OpenSUSE as an initiative. I meet other community/individual activist that fight for F/LOSS from far around Indonesia and the world such as KLAS, KSL-UIN, DOSCOM, SAGOS, A Brave from Medan (North Sumatra), A Brave Man from Lampung (South Sumatra), other KPLI around Indonesia, OpenSUSE Member from Japan and etc. There are 20 speakers perform here on <a href="https://events.opensuse.org/conference/summitasia16/schedule#2016-10-01">[Day01]</a>. Time by time, this event was crowded, there is no room for an apple to fall! </p>
 <p><center>
