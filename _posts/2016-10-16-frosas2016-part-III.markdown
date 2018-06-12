@@ -49,8 +49,6 @@ MATERIALS : </p>
 <ul>
   <li><x><a href="http://www.slideshare.net/apLexgrind/osas2016-levay-66926705">My presentation</a></x></li>
   <li><x><a href="https://www.youtube.com/watch?v=A2WPP0_JRPY&list=PLx6VNfLiNpaiUcZyNdbNVuwYuECWkv_m7">OpenSUSE Asia Summit 2016 Highlight Videos</a></x></li>
-  <li><x><a href="https://www.flickr.com/groups/opensuse-asia-summit-2016/">Photo Documentation on Flickr</a></x>
-  </li>
 </ul>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------- [EOF]
