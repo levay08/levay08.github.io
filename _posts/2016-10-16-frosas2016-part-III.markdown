@@ -31,6 +31,11 @@ rata img { display: inline; }
 And the [Day02] was begin right now. The participant of this event is more crowded, even it's a last day for the Summit. Followed by <a href="https://events.opensuse.org/conference/summitasia16/schedule#2016-10-02">19 speakers included me</a>, this is very fantastic + nervous day for me. <b><x>Awesome Guys! AWESOME!</x></b>. That is a very awkward for me, it's my first time speaking on a public place in front of random people around the world (mostly Indonesian actually).</p>
 <p><center>
 <p style="text-align:justify">
+ <img src="/assets/mad.jpg" width="500" border='2'>
+<i><font size="1">image from : <a href="https://www.flickr.com/photos/147810736@N07/29525520343/in/pool-opensuse-asia-summit-2016/">GNU/Linux Bogor on Flickr</a></font></i></center></p>
+<p><center>
+<img src="/assets/mad1.jpg" width="500" border='2'>
+<i><font size="1">image from : <a href="https://www.flickr.com/photos/147810736@N07/29525464113/in/pool-opensuse-asia-summit-2016/">OpenSUSE.id on Flickr</a></font></i></center></p>
 But, I will face it like a man and then I forgot to taking off my hat and my jacket plus I didn't realize that my slide have a lil' problem before. Maybe it's all about time, because I think my presentation was to quick, I need a long time to adapted. My bad. LOL! very nervous 😁 (sorry it's my 1st time, I'm very shy sometimes and never speaking in front of public before) but the presentation going well, I can talk what I want to talk, explain what is Interactive Fiction world? How to Play? How to Contribute with OpenSource text-adventure/interactive fiction Game Engine? It's <x><b>very very AWESOME!</b></x></p>
 <p><center>
 <img src="/assets/osas2016.jpg" width="800" border='2'>
