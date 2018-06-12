@@ -32,7 +32,7 @@ And the [Day02] was begin right now. The participant of this event is more crowd
 <p><center>
 <p style="text-align:justify">
 <img src="/assets/mad.jpg" width="500" border='2'>
-<i><font size="1">image from : <a href="https://www.flickr.com/photos/147810736@N07/29525520343/in/pool-opensuse-asia-summit-2016/">GNU/Linux Bogor on Flickr</a></font></i></center></p>
+<p><center><i><font size="1">image from : <a href="https://www.flickr.com/photos/147810736@N07/29525520343/in/pool-opensuse-asia-summit-2016/">GNU/Linux Bogor on Flickr</a></font></i></center></p>
 <p><center>
 <img src="/assets/mad1.jpg" width="500" border='2'>
 <i><font size="1">image from : <a href="https://www.flickr.com/photos/147810736@N07/29525464113/in/pool-opensuse-asia-summit-2016/">OpenSUSE.id on Flickr</a></font></i></center></p>
