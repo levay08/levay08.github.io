@@ -1,7 +1,3 @@
-[build]
-  publish = "public"
-  command = "bundle exec jekyll build"
-  
   [[headers]]
   for = "/*"
   [headers.values]
